@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Snehal Jain 👋
 
-<!--
-**SnehalNJ/SnehalNJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Scientist | Machine Learning Engineer | NLP
 
-Here are some ideas to get you started:
+💡 Passionate about building data-driven solutions using Machine Learning and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+- Python, SQL
+- Machine Learning (Regression, Classification, Clustering)
+- NLP (TF-IDF, Text Classification)
+- Libraries: Pandas, NumPy, Scikit-learn, TensorFlow
+- Deployment: Streamlit
+- Tools: Git, GitHub, Jupyter
+
+## 📊 Featured Projects
+- Fake News Detection using NLP
+- Customer Segmentation using Clustering
+- Job Recommendation System
+- Solar Power Prediction
+
+## 📫 Contact
+LinkedIn: https://www.linkedin.com/in/jainsnehal/  
+Email: snehal.jain.0211@gmail.com
